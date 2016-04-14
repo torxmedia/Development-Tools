@@ -9,3 +9,5 @@ Below is a list of approved resources for use in developing client projects. Fee
 ###WP Boilerplate Frameworks and Starter Themes
 
 * FoundationPress - https://github.com/olefredrik/FoundationPress
+* _S - http://underscores.me/
+* 
