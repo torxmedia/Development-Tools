@@ -21,3 +21,6 @@ Below is a list of approved resources for use in developing client projects. Fee
 
 * AMPPS - http://www.ampps.com/
 * Emmet - http://docs.emmet.io/
+* SourceTree - https://www.sourcetreeapp.com/
+* Iterm2 - https://www.iterm2.com/
+* Oh My ZSH - https://github.com/robbyrussell/oh-my-zsh
